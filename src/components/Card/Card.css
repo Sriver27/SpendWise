@@ -1,0 +1,45 @@
+.card{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width:50vw;
+    height: 1.5vh;
+    text-align: center;
+    align-items: center;
+    border: 1px solid black;
+    background-color:aliceblue;
+    margin: 10px;
+    border-radius: 18px;
+}
+
+.card h3{
+    margin:0;
+}
+
+.utilities{
+    width: 20%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.delete-btn:hover{
+
+    color:red;
+    cursor: pointer;
+
+}
+
+.edit-btn:hover{
+    color:cornflowerblue;
+    cursor: pointer;
+}
+
+.green{
+
+    color:green;
+
+}
+.red{
+    color:red;
+}

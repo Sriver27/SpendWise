@@ -1,0 +1,23 @@
+.main {
+  height: 30vh;
+  margin: 0;
+  padding: 0;
+  text-align: left;
+}
+h2 {
+  font-size: 30px;
+  padding: 0;
+  margin: 0;
+}
+h3 {
+  padding: 0 10px 0 0;
+  margin: 0;
+  font-weight: 500;
+  display: inline;
+}
+#green {
+  color: green;
+}
+#red {
+  color: red;
+}
